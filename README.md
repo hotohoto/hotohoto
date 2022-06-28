@@ -5,6 +5,8 @@ Working at ailys ~ 🏄‍♂️
 
 ## Online courses taken
 
+- Kubernetes [📝](https://github.com/hotohoto/study-notes/blob/main/dev/kubernetes.md)
+  - [[따배쿠] 쿠버네티스 시리즈](https://youtube.com/playlist?list=PLApuRlvrZKohaBHvXAOhUD-RxD0uQ3z0c)
 - [그래프와 추천 시스템](https://www.edwith.org/ai211) [📜](https://www.edwith.org/certificate/A20220505-461435)[📝](https://github.com/hotohoto/study-notes/blob/main/ml/graph-and-recommendation-system.md)
 - [Deep Learning](https://classroom.udacity.com/courses/ud730) [🔨](https://github.com/hotohoto/ud730)
 - [Intro to Inferential Statistics](https://classroom.udacity.com/courses/ud201) [🔨](https://github.com/hotohoto/ud201)
