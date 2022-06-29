@@ -1,4 +1,4 @@
-Working at ailys ~ 🏄‍♂️
+Open to work ~ 🏄‍♂️
 
 - [LinkedIn](https://www.linkedin.com/in/hotohoto82/)
 - [Blog](https://hotohoto.github.io)
