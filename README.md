@@ -1,5 +1,6 @@
 Open to work ~ 🏄‍♂️
 
+- Resume [EN](resume/Resume%20-%20Hoyeong%20Heo.pdf), [KO](resume/이력서%20-%20허호영.pdf)
 - [LinkedIn](https://www.linkedin.com/in/hotohoto82/)
 - [Blog](https://hotohoto.github.io)
 
